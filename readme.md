@@ -1,4 +1,4 @@
-### Summary
+### Readme by Original Author
 
 Simple browser extension that checks the current URL, and displays a banner at the top of the page warning them of dubious content.
 
@@ -13,6 +13,8 @@ This program is not perfect. For one thing, it works off of a static, incomplete
 
 But for now, this is what we’ve got.
 
-## OpenFact
+## Readme by OpenFact
 
-I am not a professional coder either, but hate fake news and content farm, therefore established the website "OpenFact" to fight against these website. I am trying to add more function to the program, but if you do have any modification, please send us an email via support@openfact.space . 
+I am not a professional coder either. Fake news and content farms are filling up our internet. It is essential to start fighting against it. The only thing I could do, as a writer, is to try fight against these websites actively. 
+
+For this program, I have tried to modify it into a "blocking" app. Instead of advising users about the website, I have created an overlay to cover the whole page. Furthermore, I have added a list of fake news website based in Hong Kong/ Taiwan. The program is not perfect. We need you to help us improve it. Please send us an email via support@openfact.space.  
